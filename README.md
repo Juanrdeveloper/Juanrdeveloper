@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and Software Engineer Student</h3>
+<h3 align="center">🚀 Web Developer and Software Engineer Student</h3>
 
 ###
 
@@ -10,11 +10,6 @@
 
 ###
 
-  <div align="center">
-    <p>🔥 Portfolio Website:
-   <a href="https://juanrdeveloper.github.io/David-website/" target="_blank">https://juanrdeveloper.github.io/David-website/</a>
-      </p>
-  </div>
 
 ###
 

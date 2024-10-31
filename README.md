@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Juan Rengifo!</h1>
+<h1 align="center">Hi 👋, Mi nombre es Juan Rengifo!</h1>
 
 ###
 
-<h3 align="center">🚀 Web Developer and Software Engineer Student</h3>
+<h3 align="center">Desarrollador de software, especializado en JavaScript</h3>
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia</p>
+<p align="center">⚡Pereira, Colombia</p>
 
 ###
 

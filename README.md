@@ -10,11 +10,15 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santyokami23&label=Profile%20views&color=0e75b6&style=flat" alt="juanrdeveloper" /> </p>
+Habilidades tecnicas:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanrdeveloper" alt="juanrdeveloper" /></a> </p>
-
-
+- Desarrollo back-end: Java, Node.js, Express
+- Desarrollo front-end: React, HTML, CSS y JavaScript
+- Procesadores: SASS
+- Librerias: Bootstrap y TailwindCSS
+- Control versiones: Git y GitHub
+- Bases de datos: SQL
+  
 ###
 
 <h3 align="left">Connect with me!</h3>

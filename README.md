@@ -1,128 +1,52 @@
-<h1 align="center">Hi 👋, Mi nombre es Juan Rengifo!</h1>
+![juanrdeveloper header's](header.png)
+<h1 align="center">Hi there! I'm Juan Rengifo, a software developer 🤩.</h1>
 
-###
+- 🧐 Exploring new technologies and developing software solutions.
+- 💻 Studying software engineering at Universidad Superior CIAF.
+- 🌍 Currently located at Pereira, Colombia.
+- 💬 Ask me about JavaScript, Node.js, Java.
+- 📫 How to reach me medrandajuan843@gmail.com.
 
-<h3 align="center">Desarrollador de software, especializado en JavaScript</h3>
+<br/>
 
-###
 
-<p align="center">⚡Pereira, Colombia</p>
+## My Skill Set
 
-###
-
-Habilidades tecnicas:
-
-- Desarrollo back-end: Java, Node.js, Express
-- Desarrollo front-end: React, HTML, CSS y JavaScript
-- Procesadores: SASS
-- Librerias: Bootstrap y TailwindCSS
-- Control versiones: Git y GitHub
-- Bases de datos: SQL
+<table>
+<tr>
+  <td valign="top" width="33%">
+    <h3 align="center">Frontend Development</h3>
+    <div align="center">  
+      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript"  
+      <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+      <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+    </div>
+  </td>
   
-###
+  <td valign="top" width="33%">
+    <h3 align="center">Backend Development</h3>
+    <div align="center"> 
+      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+      <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+     height="40"/> </a> 
+      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
+    </div>
+  </td>
 
-<h3 align="left">Connect with me!</h3>
 
-###
+## Connect With Me
 
-<div align="left">
-  <a href="https://www.instagram.com/juanrgf__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<div align="center">
+  <a href="https://github.com/juanrdeveloper" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/juan-rengifo-6297b32a1//" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/juanrengifo" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-###
-
-<h3 align="left">Skillset</h3>
-
-###
-
-<div align="left">
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img
-      src="https://skillicons.dev/icons?i=html"
-      height="40"
-      alt="html5 logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a
-    target="_blank"
-    href="https://developer.mozilla.org/es/docs/Web/JavaScript"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=js"
-      height="40"
-      alt="javascript logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://react.dev/">
-    <img
-      src="https://skillicons.dev/icons?i=react"
-      height="40"
-      alt="react logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://tailwindcss.com/">
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      height="40"
-      alt="tailwindcss logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://getbootstrap.com/">
-    <img
-      src="https://skillicons.dev/icons?i=bootstrap"
-      height="40"
-      alt="bootstrap logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://sass-lang.com/">
-    <img
-      src="https://skillicons.dev/icons?i=sass"
-      height="40"
-      alt="sass logo"
-    />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a target="_blank" href="https://github.com/">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="github logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.figma.com/">
-    <img
-      src="https://skillicons.dev/icons?i=figma"
-      height="40"
-      alt="figma logo"
-    />
-  </a>
-
-</div>
-
-###

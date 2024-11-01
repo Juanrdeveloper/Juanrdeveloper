@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Web developer</h3>
+<h3 align="center">🚀 Software developer, specialized in JavaScript</h3>
 
 ###
 

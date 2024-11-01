@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Juan Rengifo, a software developer 🤩.</h1>
+<h1 align="center">Hi there! I'm Juan Rengifo, a Software Developer 🤩.</h1>
 
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at Universidad Superior CIAF.

@@ -9,9 +9,9 @@
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
 
 - 🧐 Exploring new technologies and developing software solutions.
-- 💻 Studying software engineering at Universidad Superior CIAF.
+- 💻 Studying software engineering at University Superior CIAF.
 - 🌍 Currently located at Pereira, Colombia.
-- 💬 Ask me about JavaScript, Node.js, Java.
+- 💬 Ask me about JavaScript, React.js y Node.js
 - 📫 How to reach me medrandajuan843@gmail.com.
 
 <h3 align="left">Skillset</h3>

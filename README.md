@@ -83,6 +83,15 @@
       alt="nodejs logo"
     />
   </a>
+   </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.java.com/es/">
+    <img
+      src="https://skillicons.dev/icons?i=java"
+      height="40"
+      alt="java logo"
+    />
+  </a>
 </div>
 
 ###

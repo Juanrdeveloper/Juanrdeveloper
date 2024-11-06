@@ -11,7 +11,8 @@
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at University Superior CIAF.
 - 🌍 Currently located at Pereira, Colombia.
-- 💬 Ask me about JavaScript, React.js y Node.js
+- 🛠️ Tech: JavaScript, React.js and Node.js
+- 📊 Database: SQL and MongoDB
 - 📫 How to reach me medrandajuan843@gmail.com.
 
 <h3 align="left">Skillset</h3>
@@ -69,6 +70,15 @@
   <a target="_blank" href="https://sass-lang.com/">
     <img
       src="https://skillicons.dev/icons?i=sass"
+      height="40"
+      alt="sass logo"
+    />
+  </a>
+   </a>
+  <img width="12" />
+  <a target="_blank" href="https://nodejs.org/en/">
+    <img
+      src="https://skillicons.dev/icons?i=node.js"
       height="40"
       alt="sass logo"
     />

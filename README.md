@@ -78,9 +78,9 @@
   <img width="12" />
   <a target="_blank" href="https://nodejs.org/en/">
     <img
-      src="https://skillicons.dev/icons?i=node.js"
+      src="https://skillicons.dev/icons?i=nodejs"
       height="40"
-      alt="sass logo"
+      alt="nodejs logo"
     />
   </a>
 </div>

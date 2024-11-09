@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Software developer, specialized in JavaScript</h3>
+<h3 align="center">🚀 Software engineering, Specialized in web development</h3>
 
 ###
 
@@ -11,8 +11,8 @@
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at University Superior CIAF.
 - 🌍 Currently located at Pereira, Colombia.
-- 🛠️ Tech: JavaScript, React.js and Node.js
-- 📊 Database: SQL and MongoDB
+- 🧠 JavaScript, React.js and Node.js
+- 📊 SQL and MongoDB
 - 📫 How to reach me medrandajuan843@gmail.com.
 
 <h3 align="left">Skillset</h3>
@@ -128,9 +128,9 @@
   <img width="12" />
   <a target="_blank" href="https://code.visualstudio.com/">
     <img
-      src="https://skillicons.dev/icons?i=visualstudiocode"
+      src="https://skillicons.dev/icons?i=visualstudio"
       height="40"
-      alt="visualstudiocode logo"
+      alt="visualstudio logo"
     />
   </a>
 </div>

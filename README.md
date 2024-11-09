@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Software engineering, Specialized in web development</h3>
+<h3 align="center">📚 Software engineering, Specialized in web development</h3>
 
 ###
 

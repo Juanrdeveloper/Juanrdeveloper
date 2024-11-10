@@ -11,8 +11,8 @@
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at University Superior CIAF.
 - 🌍 Currently located at Pereira, Colombia.
-- 🧠 JavaScript, React.js and Node.js
-- 📊 SQL and MongoDB
+- 🧠 JavaScript, React.js and Node.js.
+- 📊 SQL and MongoDB.
 - 📫 How to reach me medrandajuan843@gmail.com.
 
 <h3 align="left">Skillset</h3>

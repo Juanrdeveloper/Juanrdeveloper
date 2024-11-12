@@ -16,6 +16,10 @@
 
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
 
+###
+
+<h3 align="left">About me!</h3>
+
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at University Superior CIAF.
 - 🌍 Currently located at Pereira, Colombia.

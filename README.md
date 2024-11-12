@@ -2,19 +2,14 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and Flyer Designer</h3>
+<h3 align="center">🚀 Software Developer</h3>
 
 ###
 
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
-
-###
-
-<div align="center">
-    <p>🔥 Portfolio Website:
-   <a href="juanrdeveloper.github.io/My-websitee/" target="_blank">https://juanrdeveloper.github.io/My-websitee/</a>
-      </p>
-  </div>
+<p align="center">🧐 Exploring new technologies and developing software solutions</p>
+<p align="center">📚 Studying software engineering at university Superior CIAF</p>
+<p align="center">📫 How to reach me: medrandajuan843@gmail.com</p>
 
 ###
 

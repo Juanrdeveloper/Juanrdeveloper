@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">⚙️ Skillset</h3>
+<h3 align="left">⚙️ Skills</h3>
 
 ###
 

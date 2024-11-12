@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer, Flyer Designer and Software Engineering Student</h3>
+<h3 align="center">🚀 Web Developer</h3>
 
 ###
 

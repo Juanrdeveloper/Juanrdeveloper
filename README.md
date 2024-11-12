@@ -8,7 +8,7 @@
 
  <div align="center">
     <p>🔥 Portfolio Website:
-   <a href="https://https://juanrdeveloper.github.io/My-websitee/" target="_blank">https://juanrdeveloper.github.io/My-websitee/</a>
+   <a href="https://https://juanrdeveloper.github.io/My-websitee/" target="_blank">juanrdeveloper.github.io/My-websitee/</a>
       </p>
   </div>
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">🖥️ Skills:</h3>
+<h3 align="left">⚙️ Skillset:</h3>
 
 ###
 
@@ -110,6 +110,30 @@
       src="https://skillicons.dev/icons?i=nodejs"
       height="40"
       alt="nodejs logo"
+    />
+  </a>
+ <img width="12" />
+  <a target="_blank" href="https://www.mysql.com/">
+    <img
+      src="https://skillicons.dev/icons?i=mysql"
+      height="40"
+      alt="mysql logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.mongodb.com/es">
+    <img
+      src="https://skillicons.dev/icons?i=mongodb"
+      height="40"
+      alt="mongodb logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://expressjs.com/es/">
+    <img
+      src="https://skillicons.dev/icons?i=expressjs"
+      height="40"
+      alt="expressjs logo"
     />
   </a>
 </div>

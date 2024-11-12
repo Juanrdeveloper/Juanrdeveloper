@@ -23,6 +23,23 @@
 - 📊 SQL and MongoDB.
 - 📫 How to reach me medrandajuan843@gmail.com.
 
+###
+
+<h3 align="left">Connect with me!</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/juan-rengifo-6297b32a1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">Skillset</h3>
 
 ###
@@ -136,10 +153,4 @@
 
 
 
-## Connect with me!
-
-<div align="center">
-  <a href="https://github.com/juanrdeveloper" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
 

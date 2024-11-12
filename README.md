@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">About me!</h3>
+<h3 align="left">🎓 About me:</h3>
 
 - 🧐 Exploring new technologies and developing software solutions.
 - 💻 Studying software engineering at University Superior CIAF.
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">📥 Connect with me:</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Skillset</h3>
+<h3 align="left">🖥️ Skills:</h3>
 
 ###
 

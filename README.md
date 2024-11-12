@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Software developer and Graphic designer</h3>
+<h3 align="center">🚀 Front-End Developer and Graphic Designer</h3>
 
 ###
 
@@ -81,15 +81,6 @@
       src="https://skillicons.dev/icons?i=nodejs"
       height="40"
       alt="nodejs logo"
-    />
-  </a>
-   </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.java.com/es/">
-    <img
-      src="https://skillicons.dev/icons?i=java"
-      height="40"
-      alt="java logo"
     />
   </a>
 </div>

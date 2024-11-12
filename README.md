@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
+<p align="center">🌍 Currently located at Pereira, Colombia co</p>
 <p align="center">🧐 Exploring new technologies and developing software solutions</p>
 <p align="center">📚 Studying software engineering at university Superior CIAF</p>
 <p align="center">📫 How to reach me: medrandajuan843@gmail.com</p>

@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Web Developer and Flyer Designer</h3>
+<h3 align="center">🚀 Front-end Developer and Flyer Designer</h3>
 
 ###
 

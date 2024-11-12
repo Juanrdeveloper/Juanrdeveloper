@@ -6,26 +6,15 @@
 
 ###
 
- <div align="center">
-    <p>🔥 Portfolio Website:
-   <a href="https://https://juanrdeveloper.github.io/My-websitee/" target="_blank">juanrdeveloper.github.io/My-websitee/</a>
-      </p>
-  </div>
-
-###
-
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
 
 ###
 
-<h3 align="left">🎓 About me:</h3>
-
-- 🧐 Exploring new technologies and developing software solutions.
-- 💻 Studying software engineering at University Superior CIAF.
-- 🌍 Currently located at Pereira, Colombia.
-- 🧠 JavaScript, React.js and Node.js.
-- 📊 SQL and MongoDB.
-- 📫 How to reach me medrandajuan843@gmail.com.
+<div align="center">
+    <p>🔥 Portfolio Website:
+   <a href="https://https://juanrdeveloper.github.io/My-websitee/" target="_blank">juanrdeveloper.github.io/My-websitee/</a>
+      </p>
+  </div>
 
 ###
 

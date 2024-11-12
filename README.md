@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Juan Rengifo!</h1>
+<h1 align="center">Hi 👋, I'm Juan!</h1>
 
 ###
 
-<h3 align="center">🚀 Front-End Developer and Graphic Designer</h3>
+<h3 align="center">🚀 Front-end Developer and Graphic Designer</h3>
+
+###
+
+ <div align="center">
+    <p>🔥 Portfolio Website:
+   <a href="https://https://juanrdeveloper.github.io/My-websitee/" target="_blank">https://juanrdeveloper.github.io/My-websitee/</a>
+      </p>
+  </div>
 
 ###
 
@@ -128,7 +136,7 @@
 
 
 
-## Connect With Me
+## Connect with me!
 
 <div align="center">
   <a href="https://github.com/juanrdeveloper" target="_blank">

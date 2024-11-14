@@ -9,7 +9,7 @@
 <p align="center">🌍 Currently located at Pereira, Colombia co</p>
 <p align="center">🧐 Exploring new technologies and developing software solutions</p>
 <p align="center">📚 Studying software engineering at university Superior CIAF</p>
-<p align="center">📫 How to reach me: medrandajuan843@gmail.com</p>
+
 
 ###
 
@@ -118,6 +118,14 @@
       src="https://skillicons.dev/icons?i=expressjs"
       height="40"
       alt="expressjs logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.java.com/es/">
+    <img
+      src="https://skillicons.dev/icons?i=java"
+      height="40"
+      alt="java logo"
     />
   </a>
 </div>

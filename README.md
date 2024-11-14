@@ -6,9 +6,9 @@
 
 ###
 
-<p align="center">🌍 Currently located at Pereira, Colombia co</p>
-<p align="center">🧐 Exploring new technologies and developing software solutions</p>
-<p align="center">📚 Studying software engineering at university Superior CIAF</p>
+-🌍 Currently located at Pereira, Colombia co</p>
+-🧐 Exploring new technologies and developing software solutions</p>
+-📚 Studying software engineering at university Superior CIAF</p>
 
 
 ###

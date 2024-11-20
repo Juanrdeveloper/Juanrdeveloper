@@ -121,11 +121,11 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://lp.jetbrains.com/intellij-idea-promo/">
+  <a target="_blank" href="https://www.jetbrains.com/es-es/idea/">
     <img
-      src="https://skillicons.dev/icons?i=intellij-idea"
+      src="https://skillicons.dev/icons?i=intellij"
       height="40"
-      alt="intellij-idea logo"
+      alt="intellij logo"
     />
   </a>
   <img width="12" />

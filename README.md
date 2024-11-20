@@ -123,9 +123,9 @@
   <img width="12" />
   <a target="_blank" href="https://lp.jetbrains.com/intellij-idea-promo/">
     <img
-      src="https://skillicons.dev/icons?i=intellij idea"
+      src="https://skillicons.dev/icons?i=intelliJ"
       height="40"
-      alt="intellij idea logo"
+      alt="intelliJ logo"
     />
   </a>
   <img width="12" />

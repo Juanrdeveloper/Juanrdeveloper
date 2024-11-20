@@ -121,6 +121,14 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
+  <a target="_blank" href="https://lp.jetbrains.com/intellij-idea-promo/">
+    <img
+      src="https://skillicons.dev/icons?i=intellij"
+      height="40"
+      alt="intellij logo"
+    />
+  </a>
+  <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
     <img
       src="https://skillicons.dev/icons?i=figma"

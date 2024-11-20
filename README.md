@@ -96,22 +96,6 @@
       alt="nodejs logo"
     />
   </a>
- <img width="12" />
-  <a target="_blank" href="https://www.mysql.com/">
-    <img
-      src="https://skillicons.dev/icons?i=mysql"
-      height="40"
-      alt="mysql logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.mongodb.com/es">
-    <img
-      src="https://skillicons.dev/icons?i=mongodb"
-      height="40"
-      alt="mongodb logo"
-    />
-  </a>
   <img width="12" />
   <a target="_blank" href="https://www.java.com/es/">
     <img

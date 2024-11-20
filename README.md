@@ -121,14 +121,6 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.jetbrains.com/es-es/idea/">
-    <img
-      src="https://skillicons.dev/icons?i=intellij idea"
-      height="40"
-      alt="intellij idea logo"
-    />
-  </a>
-  <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
     <img
       src="https://skillicons.dev/icons?i=figma"

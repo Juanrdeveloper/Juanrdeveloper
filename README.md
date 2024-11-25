@@ -4,11 +4,17 @@
 
 <h3 align="center">🚀 Front-end Developer</h3>
 
-###
+### About me
 
 - 🌍 Currently located at Pereira, Colombia co</p>
 - 🧐 Exploring new technologies and developing software solutions</p>
 - 📚 Studying software engineering at university Superior CIAF</p>
+
+## Skills
+
+- ⚒️*Programming Languages*: Java and JavaScript.
+- 🔥*Frameworks and Libraries*: Spring Boot, Node.js, React.
+- ⚙️ *Tools*: SQL, MOngoDB, GIT, Postman.
 
 
 ###

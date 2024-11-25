@@ -12,16 +12,13 @@
 
 ## Skills
 
-- ⚒️*Programming Languages*: Java and JavaScript.
-- 🔥*Frameworks and Libraries*: Spring Boot, Node.js, React.
+- ⚒️ *Programming Languages*: Java and JavaScript.
+- 🔥 *Frameworks and Libraries*: Spring Boot, Node.js, React.
 - ⚙️ *Tools*: SQL, MOngoDB, GIT, Postman.
 
 
-###
+### Connect with me
 
-<h3 align="left">📥 Connect with me</h3>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-rengifo-6297b32a1/" target="_blank">
@@ -32,11 +29,8 @@
   </a>
 </div>
 
-###
+### Skills
 
-<h3 align="left">🛠️ Skills</h3>
-
-###
 
 <div align="left">
   <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">

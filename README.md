@@ -3,7 +3,7 @@
 I am a software developer, specialized in JavaScript, React and Node.js.
 
 
-### About me
+## About me
 
 - 🌍 Currently located at Pereira, Colombia co</p>
 - 🧐 Exploring new technologies and developing software solutions</p>
@@ -18,7 +18,7 @@ I am a software developer, specialized in JavaScript, React and Node.js.
 - 🔋 Libraries: Bootstrap and Tailwind CSS
 
 
-### Connect with me
+## Connect with me
 
 - 📩 Email: Medrandajuan843@gmail.com
 - 📉 LinkedIn: https://www.linkedin.com/in/juan-rengifo-6297b32a1/

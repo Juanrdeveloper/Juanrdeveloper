@@ -1,4 +1,4 @@
-# Hi, i'm Juan Rengifo 👋
+# Hi 👋, I'm Juan Rengifo 
 
 I am a software developer, specialized in JavaScript, React and Node.js.
 

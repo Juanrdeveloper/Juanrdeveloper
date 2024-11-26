@@ -24,8 +24,7 @@ I am a software developer, specialized in JavaScript, React and Node.js.
 - 📉 LinkedIn: https://www.linkedin.com/in/juan-rengifo-6297b32a1/
 - 🌐 Website: https://juanrdeveloper.github.io/My-websitee/
 
-
-
+¡Contact me to join your team and continue strengthening my skills professionally! 👨🏽‍💻
     
  
  

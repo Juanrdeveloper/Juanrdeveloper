@@ -11,9 +11,11 @@ I am a software developer, specialized in JavaScript, React and Node.js.
 
 ## Skills
 
-- ⚒️ Programming Languages: Java and JavaScript.
-- 🔥 Frameworks and Libraries: Spring Boot, Node.js, React.
-- ⚙️ Tools: SQL, MOngoDB, GIT, Postman.
+- 📌 Programming Languages: Java and JavaScript.
+- 🔥 Frameworks: Spring Boot, Node.js, React.
+- ⚙️ Tools: SQL, MongoDB, GIT, Postman, Webpack
+- ✂️ Processors: SASS, Less, Lazy loading, Lighthouse
+- 🔋 Libraries: Bootstrap and Tailwind CSS
 
 
 ### Connect with me

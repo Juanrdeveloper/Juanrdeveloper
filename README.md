@@ -11,7 +11,7 @@ I am a software developer, specialized in Front-end.
 
 ## Skills
 
-- 📌 Programming Languages: JavaScript.
+- 📌 Programming Languages: JavaScript, Java
 - 🔥 Frameworks: React, Node.js.
 - ⚙️ Tools: SQL, Git, Postman, Webpack
 - ✂️ Processors: SASS, Less, Lazy loading, Lighthouse

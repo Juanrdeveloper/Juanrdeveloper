@@ -12,10 +12,11 @@ I am a software developer, specialized in Front-end.
 ## Skills
 
 - 📌 Programming Languages: JavaScript, Java
-- 🔥 Frameworks: React, Node.js.
+- 🔥 Frameworks: React, Node.js, Spring boot
 - ⚙️ Tools: SQL, Git, Postman, Webpack
 - ✂️ Processors: SASS, Less, Lazy loading, Lighthouse
 - 🔋 Libraries: Bootstrap, Tailwind CSS
+- 📊 Databases: SQL
 
 
 ## Connect with me

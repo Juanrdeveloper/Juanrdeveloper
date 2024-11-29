@@ -1,6 +1,6 @@
 # Hi 👋, I'm Juan Rengifo 
 
-I am a software developer, specialized in Front-end.
+I am a software developer, specialized in web development.
 
 
 ## About me
@@ -12,11 +12,9 @@ I am a software developer, specialized in Front-end.
 ## Skills
 
 - 📌 Programming Languages: JavaScript, Java
-- 🔥 Frameworks: React, Node.js, Spring boot
-- ⚙️ Tools: SQL, Git, Postman, Webpack
-- ✂️ Processors: SASS, Less, Lazy loading, Lighthouse
+- 🔥 Frameworks: React, Node.js
+- ⚙️ Tools: SQL, Git, Webpack, SASS
 - 🔋 Libraries: Bootstrap, Tailwind CSS
-- 📊 Databases: SQL
 
 
 ## Connect with me

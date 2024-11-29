@@ -12,7 +12,7 @@ I am a software developer, specialized in web development.
 ## Skills
 
 - 📌 Programming Languages: JavaScript, TypeScript
-- 🔥 Frameworks: React, Node.js, Express
+- 🔥 Frameworks: React, Node.js, Express.js
 - 📊 Tools: SQL, Git, Webpack, SASS, Lazy loading
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
 

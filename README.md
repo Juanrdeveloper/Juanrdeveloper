@@ -11,10 +11,12 @@ I am a software developer, specialized in web development.
 
 ## Skills
 
-- 📌 Programming Languages: JavaScript, TypeScript
-- 🔥 Frameworks: React, Node.js, Express.js
-- 📊 Tools: SQL, Git, Webpack, SASS, Lazy loading
+- 📌 Programming Languages: JavaScript, Java
+- 🔥 Frameworks: React.js, Next.js, Node.js, Express.js
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
+- 📊 Database: MongoDB, PostgreSQL
+- 🛠️ Tools: Git, SASS, Firebase
+- 🎨 Protyping: Figma, Excalidraw
 
 
 ## Connect with me

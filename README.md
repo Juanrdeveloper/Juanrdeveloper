@@ -1,4 +1,4 @@
-# Hi 👋, I'm Juan Rengifo 
+# Hi 👋, I'm Juan David Rengifo 
 
 I am a software engineering student, 4 semester, about to graduate as a professional software development technician, I specialize in Front-end development.
 

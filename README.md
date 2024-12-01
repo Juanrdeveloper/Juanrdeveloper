@@ -1,6 +1,6 @@
 # Hi 👋, I'm Juan Rengifo 
 
-I am a software developer, specialized in Front-end developer.
+I am a software engineering student, 4 semester, about to graduate as a professional software development technician, I specialize in Front-end development.
 
 
 ## About me

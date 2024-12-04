@@ -12,14 +12,13 @@ I am a software engineering student, 4 semester, about to graduate as a professi
 ## Skills
 
 - 📌 Programming Languages: JavaScript, TypeScript
-- 🔥 Frameworks: React.js, Next.js, Node.js, Express.js
+- 🔥 Frameworks: React.js, Node.js, Express.js
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
 - 📊 Database: MongoDB, PostgreSQL
 - 🎨 Protyping: Figma, Adobe photoshop, Excalidraw
-- 🔒 Security: xss, WebSockets
-- 🔑 Authentication: JWT, Passport.js
-- ☁️ Hosting: Vercel, Netlify, AWS
+- ☁️ Hosting: Vercel, Netlify
 - 🛠️ Tools: Git, SASS
+- 🔒 Security: XSS
 
 
 ## Connect with me

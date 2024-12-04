@@ -15,7 +15,7 @@ I am a software engineering student, 4 semester, about to graduate as a professi
 - 🔥 Frameworks: React.js, Node.js, Express.js
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
 - 📊 Database: MongoDB, PostgreSQL
-- 🎨 Protyping: Figma, Adobe photoshop, Excalidraw
+- 🎨 Protyping: Figma, Adobe photoshop
 - ☁️ Hosting: Vercel, Netlify
 - 🛠️ Tools: Git, SASS
 - 🔒 Security: XSS

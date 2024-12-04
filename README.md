@@ -14,11 +14,13 @@ I am a software engineering student, 4 semester, about to graduate as a professi
 - 📌 Programming Languages: JavaScript
 - 🔥 Frameworks: React.js, Node.js, Express.js
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
+- 🔒 Optimization: XSS, Google PageSpeed Insights
+- 🛠️ Tools: Git, Sass, Webpack, OWASP Top 10
 - 📊 Database: MongoDB, PostgreSQL
 - 🎨 Protyping: Figma, Adobe photoshop
 - ☁️ Hosting: Vercel, Netlify
-- 🛠️ Tools: Git, SASS
-- 🔒 Security: XSS
+- 📱 Grid layout, flexbox, media queries
+
 
 
 ## Connect with me

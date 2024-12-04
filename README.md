@@ -11,7 +11,7 @@ I am a software engineering student, 4 semester, about to graduate as a professi
 
 ## Skills
 
-- 📌 Programming Languages: JavaScript, TypeScript
+- 📌 Programming Languages: JavaScript
 - 🔥 Frameworks: React.js, Node.js, Express.js
 - 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
 - 📊 Database: MongoDB, PostgreSQL

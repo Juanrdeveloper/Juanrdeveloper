@@ -1,35 +1,22 @@
-# Hi 👋, I'm Juan David Rengifo 
+<h1 align="center">Hola 👋, mi nombre es Juan</h1>
 
-I am a software engineering student, 4 semester, about to graduate as a professional software development technician, I specialize in Front-end development.
+<h3 align="center">Soy desarrollador de software</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juanrdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="juanrdeveloper" /> </p>
 
-## About me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanrdeveloper" alt="juanrdeveloper" /></a> </p>
 
-- 🌍 Currently located at Pereira, Colombia co</p>
-- 🧐 Exploring new technologies and developing software solutions</p>
-- 📚 Studying software engineering at university Superior CIAF</p>
-
-## Skills
-
-- 📌 Programming Languages: JavaScript
-- 🔥 Frameworks: React.js, Node.js, Express.js
-- 🔋 Libraries: Bootstrap, Tailwind CSS, Material UI
-- 🔒 Optimization: XSS, Google PageSpeed Insights
-- 🛠️ Tools: Git, Sass, Webpack, OWASP Top 10
-- 📊 Database: MongoDB, PostgreSQL
-- 🎨 Protyping: Figma, Adobe photoshop
-- ☁️ Hosting: Vercel, Netlify
-- 📱 Grid layout, flexbox, media queries
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Juan rengifo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Rengifo" height="30" width="40" /></a>
+</p>
 
 
 
-## Connect with me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanrdeveloper&show_icons=true&locale=en" alt="juanrdeveloper" /></p>
 
-- 📩 Email: Medrandajuan843@gmail.com
-- 📉 LinkedIn: https://www.linkedin.com/in/juan-rengifo-6297b32a1/
-- 🌐 Website: https://juanrdeveloper.github.io/My-websitee/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanrdeveloper&" alt="juanrdeveloper" /></p>
 
-¡Contact me to join your team and continue strengthening my skills professionally! 👨🏽‍💻
     
  
  

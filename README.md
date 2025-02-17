@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Juan</h1>
 
-<h3 align="center">Soy Tecnico profesional en programacion de software</h3>
+<h3 align="center">Soy Tecnico Profesional en Programacion de Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanrdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="juanrdeveloper" /> </p>
 

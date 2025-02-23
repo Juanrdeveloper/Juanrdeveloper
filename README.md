@@ -106,9 +106,9 @@
   <img width="12" />
   <a target="_blank" href="https://nextjs.org/">
     <img
-      src="https://skillicons.dev/icons?i=nextjs"
+      src="https://skillicons.dev/icons?i=mysql"
       height="40"
-      alt="nextjs logo"
+      alt="mysql logo"
     />
   </a>
 </div>

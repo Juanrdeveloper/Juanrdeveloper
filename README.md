@@ -98,7 +98,7 @@
   <img width="12" />
   <a target="_blank" href="https://astro.build/https://astro.build/">
     <img
-      src="https://skillicons.dev/icons?i=nodejs.org"
+      src="https://skillicons.dev/icons?i=nodejs"
       height="40"
       alt="nodejs logo"
     />

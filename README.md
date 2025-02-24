@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and Software Engineering student</h3>
+<h3 align="center">🚀 Front-end Developer and Database Support</h3>
 
 ###
 

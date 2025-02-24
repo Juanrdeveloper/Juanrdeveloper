@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer and Database Support</h3>
+<h3 align="center">🚀 Front-end Developer and Technical Support in Databases</h3>
 
 ###
 

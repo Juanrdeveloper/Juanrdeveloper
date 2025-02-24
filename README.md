@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📚 Software programming professional</h3>
+<h3 align="center">📌 Software Engineering</h3>
 
 ###
 

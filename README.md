@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📊 Database Administrator</h3>
+<h3 align="center">📚 Software programming professional</h3>
 
 ###
 

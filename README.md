@@ -109,7 +109,50 @@
 </div>
 
 ###
-
+<div align="left">
+  <a target="_blank" href="https://github.com/">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="40"
+      alt="github logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://firebase.google.com/?hl=es">
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      height="40"
+      alt="firebase logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.figma.com/">
+    <img
+      src="https://skillicons.dev/icons?i=figma"
+      height="40"
+      alt="figma logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
+    <img
+      src="https://skillicons.dev/icons?i=ps"
+      height="40"
+      alt="adobephotoshop logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://wordpress.org/">
+    <img
+      src="https://skillicons.dev/icons?i=wordpress"
+      height="40"
+      alt="wordpress logo"
+    />
+  </a>
  
 </div>
 

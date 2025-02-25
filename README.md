@@ -146,13 +146,7 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://wordpress.org/">
-    <img
-      src="https://skillicons.dev/icons?i=wordpress"
-      height="40"
-      alt="wordpress logo"
-    />
-  </a>
+  
  
 </div>
 

@@ -146,7 +146,14 @@
     />
   </a>
   <img width="12" />
-  
+   <img width="12" />
+  <a target="_blank" href="https://nextjs.org/">
+    <img
+      src="https://skillicons.dev/icons?i=mysql"
+      height="40"
+      alt="mysql logo"
+    />
+  </a>
  
 </div>
 

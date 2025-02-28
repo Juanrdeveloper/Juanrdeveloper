@@ -104,11 +104,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.mysql.com/">
+  <a target="_blank" href="https://www.typescriptlang.org/">
     <img
-      src="https://skillicons.dev/icons?i=mysql"
+      src="https://skillicons.dev/icons?i=typescript"
       height="40"
-      alt="mysql logo"
+      alt="typescript logo"
     />
   </a>
 </div>

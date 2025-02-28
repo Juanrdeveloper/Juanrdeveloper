@@ -127,11 +127,11 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://firebase.google.com/?hl=es">
+  <a target="_blank" href="https://vercel.com/">
     <img
-      src="https://skillicons.dev/icons?i=firebase"
+      src="https://vercel.com/"
       height="40"
-      alt="firebase logo"
+      alt="vercel logo"
     />
   </a>
   <img width="12" />

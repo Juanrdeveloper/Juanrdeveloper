@@ -96,11 +96,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://nodejs.org/en">
+  <a target="_blank" href="https://code.visualstudio.com/">
     <img
-      src="https://skillicons.dev/icons?i=nodejs"
+      src="https://code.visualstudio.com/"
       height="40"
-      alt="nodejs logo"
+      alt="visual studio logo"
     />
   </a>
   <img width="12" />

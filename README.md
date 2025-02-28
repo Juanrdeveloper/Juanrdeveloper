@@ -151,11 +151,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://wordpress.org/">
+  <a target="_blank" href="https://www.python.org/">
     <img
-      src="https://skillicons.dev/icons?i=wordpress"
+      src="https://skillicons.dev/icons?i=python"
       height="40"
-      alt="wordpress logo"
+      alt="python logo"
     />
   </a>
 

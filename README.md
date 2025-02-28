@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, co</p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia co</p>
 
 ###
 

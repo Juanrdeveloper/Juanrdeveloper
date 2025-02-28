@@ -144,11 +144,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.python.org/">
+  <a target="_blank" href="https://firebase.google.com/">
     <img
-      src="https://skillicons.dev/icons?i=python"
+      src="https://skillicons.dev/icons?i=firebase"
       height="40"
-      alt="python logo"
+      alt="firebase logo"
     />
   </a>
 

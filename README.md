@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📌 Web Developer</h3>
+<h3 align="center">📌 Front-end Developer and Design UX/UI</h3>
 
 ###
 
@@ -96,11 +96,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://code.visualstudio.com/">
+  <a target="_blank" href="https://nextjs.org/">
     <img
-      src="https://skillicons.dev/icons?i=visualstudio"
+      src="https://skillicons.dev/icons?i=nextjs"
       height="40"
-      alt="visual studio logo"
+      alt="nextjs logo"
     />
   </a>
   <img width="12" />

@@ -159,6 +159,14 @@
       alt="graphql logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https://vercel.com/">
+    <img
+      src="https://skillicons.dev/icons?i=vercel"
+      height="40"
+      alt="vercel logo"
+    />
+  </a>
 
 ###
 

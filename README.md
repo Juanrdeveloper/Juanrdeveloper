@@ -143,11 +143,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
+  <a target="_blank" href="https://www.netlify.com/">
     <img
-      src="https://skillicons.dev/icons?i=ps"
+      src="https://skillicons.dev/icons?i=netlify"
       height="40"
-      alt="adobephotoshop logo"
+      alt="netlify logo"
     />
   </a>
   <img width="12" />

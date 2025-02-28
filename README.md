@@ -96,7 +96,7 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://astro.build/https://astro.build/">
+  <a target="_blank" href="https://nodejs.org/en">
     <img
       src="https://skillicons.dev/icons?i=nodejs"
       height="40"

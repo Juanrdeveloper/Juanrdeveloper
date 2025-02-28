@@ -126,13 +126,6 @@
   <a target="_blank" href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://vercel.com/">
-    <img
-      src="https://vercel.com/"
-      height="40"
-      alt="vercel logo"
-    />
   </a>
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">

@@ -151,6 +151,14 @@
       alt="firebase logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://graphql.org/">
+    <img
+      src="https://skillicons.dev/icons?i=graphql"
+      height="40"
+      alt="graphql logo"
+    />
+  </a>
 
 ###
 

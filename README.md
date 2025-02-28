@@ -6,13 +6,13 @@
 
 ###
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia</p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, co</p>
 
 ###
 
 <div align="center">
     <p>🔥 Portfolio Website:
-   <a href="https://juanrdeveloper.github.io/My-websitee/" target="_blank">websitee</a>
+   <a href="https://juanrdeveloper.github.io/My-websitee/" target="_blank">https://juanrdeveloper.github.io/My-websitee/</a>
       </p>
   </div>
 

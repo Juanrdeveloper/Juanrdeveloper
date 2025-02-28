@@ -127,6 +127,12 @@
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   </a>
   <img width="12" />
+  <a target="_blank" href="https://firebase.google.com/?hl=es">
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      height="40"
+      alt="firebase logo"
+    />
   </a>
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
@@ -145,9 +151,13 @@
     />
   </a>
   <img width="12" />
-   
- 
-</div>
+  <a target="_blank" href="https://wordpress.org/">
+    <img
+      src="https://skillicons.dev/icons?i=wordpress"
+      height="40"
+      alt="wordpress logo"
+    />
+  </a>
 
 ###
 

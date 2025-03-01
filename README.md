@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📌 Front-end Developer and Design UX/UI</h3>
+<h3 align="center">📌 Front-end Web Developer</h3>
 
 ###
 
@@ -109,6 +109,14 @@
       src="https://skillicons.dev/icons?i=typescript"
       height="40"
       alt="typescript logo"
+    />
+  </a>
+    <img width="12" />
+  <a target="_blank" href="https://nodejs.org/en">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      height="40"
+      alt="nodejs logo"
     />
   </a>
 </div>

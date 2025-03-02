@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Web Developer and Graphic Designer</h3>
+<h3 align="center">🚀 Web Developer</h3>
 <h3 align="center">🇺🇸 English A2</h3>
 
 ###
@@ -89,6 +89,14 @@
       src="https://skillicons.dev/icons?i=sass"
       height="40"
       alt="sass logo"
+    />
+  </a>
+<img width="12" />
+  <a target="_blank" href="https://nodejs.org/en">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      height="40"
+      alt="nodejs logo"
     />
   </a>
 </div>

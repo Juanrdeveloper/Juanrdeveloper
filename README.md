@@ -98,6 +98,14 @@
       alt="nodejs logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.typescriptlang.org/">
+    <img
+      src="https://skillicons.dev/icons?i=typescript"
+      height="40"
+      alt="typescript logo"
+    />
+  </a>
 </div>
 
 ###

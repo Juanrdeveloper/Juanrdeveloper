@@ -91,11 +91,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.python.org/">
+  <a target="_blank" href="https://nodejs.org/en">
     <img
-      src="https://skillicons.dev/icons?i=python"
+      src="https://skillicons.dev/icons?i=nodejs"
       height="40"
-      alt="python logo"
+      alt="nodejs logo"
     />
   </a>
 </div>

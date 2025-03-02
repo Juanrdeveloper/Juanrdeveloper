@@ -96,14 +96,6 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://excalidraw.com/">
-    <img
-      src="https://skillicons.dev/icons?i=excalidraw"
-      height="40"
-      alt="excalidraw logo"
-    />
-  </a>
-  <img width="12" />
   <a target="_blank" href="https://www.python.org/">
     <img
       src="https://skillicons.dev/icons?i=python"
@@ -149,14 +141,6 @@
       src="https://skillicons.dev/icons?i=firebase"
       height="40"
       alt="firebase logo"
-    />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://graphql.org/">
-    <img
-      src="https://skillicons.dev/icons?i=graphql"
-      height="40"
-      alt="graphql logo"
     />
   </a>
   <img width="12" />

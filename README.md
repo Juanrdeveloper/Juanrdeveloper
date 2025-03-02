@@ -155,6 +155,14 @@
       alt="vercel logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.netlify.com/">
+    <img
+      src="https://skillicons.dev/icons?i=netlify"
+      height="40"
+      alt="netlify logo"
+    />
+  </a>
   
 
 ###

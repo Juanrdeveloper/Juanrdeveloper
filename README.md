@@ -131,6 +131,14 @@
       alt="adobephotoshop logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https:https://firebase.google.com/">
+    <img
+      src="https://skillicons.dev/icons?i=firebase"
+      height="40"
+      alt="firebase logo"
+    />
+  </a>
   
 
 ###

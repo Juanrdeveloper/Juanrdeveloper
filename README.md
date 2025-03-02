@@ -90,22 +90,6 @@
       alt="sass logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://nodejs.org/en">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs"
-      height="40"
-      alt="nodejs logo"
-    />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://www.typescriptlang.org/">
-    <img
-      src="https://skillicons.dev/icons?i=typescript"
-      height="40"
-      alt="typescript logo"
-    />
-  </a>
 </div>
 
 ###
@@ -131,27 +115,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.netlify.com/">
+  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
     <img
-      src="https://skillicons.dev/icons?i=netlify"
+      src="https://skillicons.dev/icons?i=ps"
       height="40"
-      alt="netlify logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://firebase.google.com/">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      height="40"
-      alt="firebase logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://vercel.com/">
-    <img
-      src="https://skillicons.dev/icons?i=vercel"
-      height="40"
-      alt="vercel logo"
+      alt="adobephotoshop logo"
     />
   </a>
    <img width="12" />

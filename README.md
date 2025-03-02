@@ -96,11 +96,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://nextjs.org/">
+  <a target="_blank" href="https://excalidraw.com/">
     <img
-      src="https://skillicons.dev/icons?i=nextjs"
+      src="https://skillicons.dev/icons?i=excalidraw"
       height="40"
-      alt="nextjs logo"
+      alt="excalidraw logo"
     />
   </a>
   <img width="12" />

@@ -104,19 +104,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.typescriptlang.org/">
+  <a target="_blank" href="https://www.python.org/">
     <img
-      src="https://skillicons.dev/icons?i=typescript"
+      src="https://skillicons.dev/icons?i=python"
       height="40"
-      alt="typescript logo"
-    />
-  </a>
-    <img width="12" />
-  <a target="_blank" href="https://nodejs.org/en">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs"
-      height="40"
-      alt="nodejs logo"
+      alt="python logo"
     />
   </a>
 </div>

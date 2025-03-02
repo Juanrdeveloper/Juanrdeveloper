@@ -2,7 +2,8 @@
 
 ###
 
-<h3 align="center">📌 Web Developer</h3>
+<h3 align="center">🚀 Web Developer and Graphic Designer</h3>
+<h3 align="center">🇺🇸 English A2</h3>
 
 ###
 

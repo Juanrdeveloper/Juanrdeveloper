@@ -155,14 +155,6 @@
     />
   </a>
    <img width="12" />
-  <a target="_blank" href="https://code.visualstudio.com/">
-    <img
-      src="https://skillicons.dev/icons?i=visualstudio"
-      height="40"
-      alt="visualstudiocode logo"
-    />
-  </a>
-   <img width="12" />
   <a target="_blank" href="https://www.mysql.com/">
     <img
       src="https://skillicons.dev/icons?i=mysql"

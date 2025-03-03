@@ -99,14 +99,6 @@
       alt="nodejs logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.typescriptlang.org/">
-    <img
-      src="https://skillicons.dev/icons?i=typescript"
-      height="40"
-      alt="typescript logo"
-    />
-  </a>
     <img width="12" />
   <a target="_blank" href="https://www.python.org/">
     <img
@@ -142,14 +134,6 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
-    <img
-      src="https://skillicons.dev/icons?i=ps"
-      height="40"
-      alt="adobephotoshop logo"
-    />
-  </a>
-  <img width="12" />
   <a target="_blank" href="https:https://firebase.google.com/">
     <img
       src="https://skillicons.dev/icons?i=firebase"
@@ -165,30 +149,8 @@
       alt="mysql logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://vercel.com/">
-    <img
-      src="https://skillicons.dev/icons?i=vercel"
-      height="40"
-      alt="vercel logo"
-    />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://www.netlify.com/">
-    <img
-      src="https://skillicons.dev/icons?i=netlify"
-      height="40"
-      alt="netlify logo"
-    />
-  </a>
-    <img width="12" />
-  <a target="_blank" href="https://www.djangoproject.com/">
-    <img
-      src="https://skillicons.dev/icons?i=django"
-      height="40"
-      alt="django logo"
-    />
-  </a>
+
+
   
 
 ###

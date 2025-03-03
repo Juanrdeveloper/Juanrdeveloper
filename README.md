@@ -181,6 +181,14 @@
       alt="netlify logo"
     />
   </a>
+    <img width="12" />
+  <a target="_blank" href="https://www.djangoproject.com/">
+    <img
+      src="https://skillicons.dev/icons?i=django"
+      height="40"
+      alt="django logo"
+    />
+  </a>
   
 
 ###

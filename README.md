@@ -99,20 +99,24 @@
       alt="nodejs logo"
     />
   </a>
-   <a target="_blank" href="https://www.typescriptlang.org/">
+  <img width="12" />
+  <a target="_blank" href="https://www.typescriptlang.org/">
     <img
       src="https://skillicons.dev/icons?i=typescript"
       height="40"
       alt="typescript logo"
     />
   </a>
-   <a target="_blank" href="https://www.python.org/">
+    <img width="12" />
+  <a target="_blank" href="https://www.python.org/">
     <img
       src="https://skillicons.dev/icons?i=python"
       height="40"
       alt="python logo"
     />
   </a>
+
+
 </div>
 
 ###

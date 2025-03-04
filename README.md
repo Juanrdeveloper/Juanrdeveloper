@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Software Developer</h3>
+<h3 align="center">🚀 Web Developer</h3>
 <h3 align="center">🇺🇸 English A2</h3>
 
 ###
@@ -99,6 +99,15 @@
       alt="nodejs logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.python.org/">
+    <img
+      src="https://skillicons.dev/icons?i=python"
+      height="40"
+      alt="python logo"
+    />
+  </a>
+
 
 </div>
 

@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer</h3>
+<h3 align="center">🚀 Software Developer</h3>
 <h3 align="center">🇺🇸 English A2</h3>
 
 ###

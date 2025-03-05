@@ -70,6 +70,14 @@
       alt="mysql logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.mongodb.com/">
+    <img
+      src="https://skillicons.dev/icons?i=mongodb"
+      height="40"
+      alt="mongodb logo"
+    />
+  </a>
 
 </div>
 

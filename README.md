@@ -78,6 +78,14 @@
       alt="mongodb logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://excel.cloud.microsoft/es-mx/">
+    <img
+      src="https://skillicons.dev/icons?i=excel"
+      height="40"
+      alt="excel logo"
+    />
+  </a>
 
 </div>
 

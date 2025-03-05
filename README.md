@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 <h3 align="center">🇺🇸 English A2</h3>
 
 ###
@@ -37,27 +37,6 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img
-      src="https://skillicons.dev/icons?i=html"
-      height="40"
-      alt="html5 logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  <a
-    target="_blank"
-    href="https://developer.mozilla.org/es/docs/Web/JavaScript"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=js"
-      height="40"
-      alt="javascript logo"
-    />
   </a>
   <img width="12" />
   <a target="_blank" href="https://react.dev/">
@@ -68,63 +47,33 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://tailwindcss.com/">
+  <a target="_blank" href="https://nodejs.org/en">
     <img
-      src="https://skillicons.dev/icons?i=tailwind"
+      src="https://skillicons.dev/icons?i=nodejs"
       height="40"
-      alt="tailwindcss logo"
+      alt="nodejs logo"
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://getbootstrap.com/">
+  <a target="_blank" href="https://expressjs.com/">
     <img
-      src="https://skillicons.dev/icons?i=bootstrap"
+      src="https://skillicons.dev/icons?i=expressjs"
       height="40"
-      alt="bootstrap logo"
+      alt="Expressjs logo"
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://sass-lang.com/">
+  <a target="_blank" href="https://www.mysql.com/">
     <img
-      src="https://skillicons.dev/icons?i=sass"
+      src="https://skillicons.dev/icons?i=mysql"
       height="40"
-      alt="sass logo"
+      alt="mysql logo"
     />
   </a>
 
 </div>
 
 ###
-<div align="left">
-  <a target="_blank" href="https://github.com/">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="github logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  </a>
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.figma.com/">
-    <img
-      src="https://skillicons.dev/icons?i=figma"
-      height="40"
-      alt="figma logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https:https://firebase.google.com/">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      height="40"
-      alt="firebase logo"
-    />
-  </a>
-
 
 
   

@@ -79,7 +79,7 @@
     />
   </a>
    <img width="12" />
-  <a target="_blank" href="https://excel.cloud.microsoft/es-mx/">
+  <a target="_blank" href="https://es.wikipedia.org/wiki/Microsoft_Excel">
     <img
       src="https://skillicons.dev/icons?i=excel"
       height="40"

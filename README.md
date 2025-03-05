@@ -79,11 +79,11 @@
     />
   </a>
    <img width="12" />
-  <a target="_blank" href="https://es.wikipedia.org/wiki/Microsoft_Excel">
+  <a target="_blank" href="https://www.postgresql.org/">
     <img
-      src="https://skillicons.dev/icons?i=excel"
+      src="https://skillicons.dev/icons?i=postgresql"
       height="40"
-      alt="excel logo"
+      alt="postgresql logo"
     />
   </a>
 

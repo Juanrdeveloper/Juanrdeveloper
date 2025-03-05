@@ -2,8 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Full Stack Developer</h3>
-<h3 align="center">🚀 Database Support</h3>
+<h3 align="center">📌 Full Stack Developer</h3>
 <h3 align="center">🇺🇸 English A2</h3>
 
 ###

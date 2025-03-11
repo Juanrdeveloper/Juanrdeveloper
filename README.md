@@ -10,12 +10,6 @@
 
 ###
 
-  <div align="center">
-    <p>🔥 Portfolio Website:
-   <a href="https://juanrdeveloper.github.io/My-websitee/" target="_blank">juanwebsite</a>
-      </p>
-  </div>
-
 ###
 
 <h3 align="left">Connect with me!</h3>

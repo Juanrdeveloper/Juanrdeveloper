@@ -23,16 +23,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/joacoo.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/joaquinmesa22/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-david-702a6a306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.behance.net/joacomesa1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  </a>
-  <a href="mailto:joacomesa@gmail.com" target="_blank">
+  <a href="mailto:medrandajuan843@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -75,27 +69,27 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://tailwindcss.com/">
+  <a target="_blank" href="https://www.python.org/">
     <img
-      src="https://skillicons.dev/icons?i=tailwind"
+      src="https://skillicons.dev/icons?i=python"
       height="40"
-      alt="tailwindcss logo"
+      alt="python logo"
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://getbootstrap.com/">
+  <a target="_blank" href="https://www.mysql.com/">
     <img
-      src="https://skillicons.dev/icons?i=bootstrap"
+      src="https://skillicons.dev/icons?i=mysql"
       height="40"
-      alt="bootstrap logo"
+      alt="mysql logo"
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://sass-lang.com/">
+  <a target="_blank" href="https://www.microsoft.com/es-co/microsoft-365/excel">
     <img
-      src="https://skillicons.dev/icons?i=sass"
+      src="https://skillicons.dev/icons?i=excel"
       height="40"
-      alt="sass logo"
+      alt="excel logo"
     />
   </a>
   <img width="12" />
@@ -106,38 +100,10 @@
       alt="astro logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://nextjs.org/">
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      height="40"
-      alt="nextjs logo"
-    />
-  </a>
 </div>
 
 ###
 
-<div align="left">
-  <a target="_blank" href="https://github.com/">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="40"
-      alt="github logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://firebase.google.com/?hl=es">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      height="40"
-      alt="firebase logo"
-    />
-  </a>
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
     <img
@@ -146,22 +112,8 @@
       alt="figma logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
-    <img
-      src="https://skillicons.dev/icons?i=ps"
-      height="40"
-      alt="adobephotoshop logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://wordpress.org/">
-    <img
-      src="https://skillicons.dev/icons?i=wordpress"
-      height="40"
-      alt="wordpress logo"
-    />
-  </a>
+
+
 </div>
 
 ###

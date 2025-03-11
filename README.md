@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Web Developer and Data Analysis</h3>
+<h3 align="center">🚀 Web Developer</h3>
 
 ###
 

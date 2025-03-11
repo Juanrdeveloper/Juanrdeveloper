@@ -85,14 +85,6 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.microsoft.com/es-co/microsoft-365/excel">
-    <img
-      src="https://skillicons.dev/icons?i=excel"
-      height="40"
-      alt="excel logo"
-    />
-  </a>
-  <img width="12" />
   <a target="_blank" href="https://astro.build/https://astro.build/">
     <img
       src="https://skillicons.dev/icons?i=astro"
@@ -100,10 +92,6 @@
       alt="astro logo"
     />
   </a>
-</div>
-
-###
-
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
     <img
@@ -112,9 +100,12 @@
       alt="figma logo"
     />
   </a>
-
-
 </div>
+
+###
+
+
+
 
 ###
 

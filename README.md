@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">📈 Junior Data Analyst</h3>
+<h3 align="center">📓 Software Engineering</h3>
 
 ###
 

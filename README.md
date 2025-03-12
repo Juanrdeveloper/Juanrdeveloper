@@ -107,7 +107,7 @@
     <img
       src="https://skillicons.dev/icons?i=turso"
       height="40"
-      alt="tursojs logo"
+      alt="turso logo"
     />
   </a>
    <img width="12" />

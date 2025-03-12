@@ -103,11 +103,11 @@
     />
   </a>
    <img width="12" />
-  <a target="_blank" href="https://turso.tech/">
+  <a target="_blank" href="https://firebase.google.com/">
     <img
-      src="https://skillicons.dev/icons?i=turso"
+      src="https://skillicons.dev/icons?i=firebase"
       height="40"
-      alt="turso logo"
+      alt="firebase logo"
     />
   </a>
    <img width="12" />

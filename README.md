@@ -94,7 +94,6 @@
       alt="figma logo"
     />
   </a>
-</div>
  <img width="12" />
   <a target="_blank" href="https://nodejs.org/en">
     <img

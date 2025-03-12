@@ -108,15 +108,7 @@
     <img
       src="https://skillicons.dev/icons?i=turso"
       height="40"
-      alt="turso logo"
-    />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://turso.tech/">
-    <img
-      src="https://skillicons.dev/icons?i=turso"
-      height="40"
-      alt="turso logo"
+      alt="tursojs logo"
     />
   </a>
    <img width="12" />

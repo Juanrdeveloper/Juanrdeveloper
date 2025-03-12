@@ -117,6 +117,13 @@
       height="40"
       alt="netlify logo"
     />
+      <img width="12" />
+  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
+    <img
+      src="https://skillicons.dev/icons?i=ps"
+      height="40"
+      alt="adobephotoshop logo"
+    />
   </a>
 </div>
 

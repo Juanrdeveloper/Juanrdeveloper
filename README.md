@@ -95,6 +95,39 @@
     />
   </a>
 </div>
+ <img width="12" />
+  <a target="_blank" href="https://nodejs.org/en">
+    <img
+      src="https://skillicons.dev/icons?i=nodejs"
+      height="40"
+      alt="nodejs logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://turso.tech/">
+    <img
+      src="https://skillicons.dev/icons?i=turso"
+      height="40"
+      alt="turso logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://turso.tech/">
+    <img
+      src="https://skillicons.dev/icons?i=turso"
+      height="40"
+      alt="turso logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.netlify.com/">
+    <img
+      src="https://skillicons.dev/icons?i=netlify"
+      height="40"
+      alt="netlify logo"
+    />
+  </a>
+</div>
 
 ###
 

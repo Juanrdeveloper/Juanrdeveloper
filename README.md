@@ -32,17 +32,6 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
-    <img
-      src="https://skillicons.dev/icons?i=html"
-      height="40"
-      alt="html5 logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-  </a>
   <img width="12" />
   <a
     target="_blank"
@@ -60,14 +49,6 @@
       src="https://skillicons.dev/icons?i=react"
       height="40"
       alt="react logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://www.python.org/">
-    <img
-      src="https://skillicons.dev/icons?i=python"
-      height="40"
-      alt="python logo"
     />
   </a>
   <img width="12" />
@@ -103,26 +84,11 @@
     />
   </a>
    <img width="12" />
-  <a target="_blank" href="https://firebase.google.com/">
+  <a target="_blank" href="https://www.typescriptlang.org/">
     <img
-      src="https://skillicons.dev/icons?i=firebase"
+      src="https://skillicons.dev/icons?i=typescript"
       height="40"
-      alt="firebase logo"
-    />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://www.netlify.com/">
-    <img
-      src="https://skillicons.dev/icons?i=netlify"
-      height="40"
-      alt="netlify logo"
-    />
-      <img width="12" />
-  <a target="_blank" href="https://www.adobe.com/ar/products/photoshop.html">
-    <img
-      src="https://skillicons.dev/icons?i=ps"
-      height="40"
-      alt="adobephotoshop logo"
+      alt="typescript logo"
     />
   </a>
 </div>

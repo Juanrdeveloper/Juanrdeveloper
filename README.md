@@ -32,14 +32,7 @@
 ###
 
 <div align="left">
- <img width="12" />
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img
-      src="https://skillicons.dev/icons?i=js"
-      height="40"
-      alt="javascript logo"
-    />
-  </a>
+  
   <img width="12" />
   <a target="_blank" href="https://react.dev/">
     <img
@@ -86,6 +79,14 @@
       src="https://skillicons.dev/icons?i=typescript"
       height="40"
       alt="typescript logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img
+      src="https://skillicons.dev/icons?i=js"
+      height="40"
+      alt="javascript logo"
     />
   </a>
 </div>

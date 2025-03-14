@@ -12,7 +12,7 @@
 
   <div align="center">
     <p>🔥 Professional Resume:
-   <a href="https://docs.google.com/document/d/14vPsoGsObTJbvQ70-jBWGhdRwy6ZJ2VvgbzY2k6iUEA/edit?tab=t.0" target="_blank">MyCV</a>
+   <a href="https://www.linkedin.com/in/juan-david-702a6a306/" target="_blank">Linkedin</a>
       </p>
   </div>
 

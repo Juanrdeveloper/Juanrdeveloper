@@ -12,7 +12,7 @@
 
   <div align="center">
     <p>🔥 Professional Resume:
-   <a href="https://docs.google.com/document/d/1y14ReKBQyk4RhcT3Rg4v_wWMLx4yKH3XNfev4S7BQmM/edit?tab=t.0" target="_blank">MyCV</a>
+   <a href="file:///C:/Users/Usuario/Downloads/Hoja%20de%20vida%20-%20Dev%20%20(1).pdf" target="_blank">MyCV</a>
       </p>
   </div>
 

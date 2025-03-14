@@ -11,7 +11,7 @@
 ###
 
   <div align="center">
-    <p>🔥 Portfolio Website:
+    <p>🔥 Professional Resume:
    <a href="https://docs.google.com/document/d/1y14ReKBQyk4RhcT3Rg4v_wWMLx4yKH3XNfev4S7BQmM/edit?tab=t.0" target="_blank">Mi CV</a>
       </p>
   </div>

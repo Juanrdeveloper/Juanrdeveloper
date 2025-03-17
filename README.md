@@ -69,11 +69,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://astro.build/https://astro.build/">
+  <a target="_blank" href="https://webpack.js.org/">
     <img
-      src="https://skillicons.dev/icons?i=astro"
+      src="https://skillicons.dev/icons?i=webpack"
       height="40"
-      alt="astro logo"
+      alt="webpack logo"
     />
   </a>
 </div>

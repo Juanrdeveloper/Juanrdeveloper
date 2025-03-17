@@ -76,6 +76,14 @@
       alt="webpack logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https://vite.dev/">
+    <img
+      src="https://skillicons.dev/icons?i=vite"
+      height="40"
+      alt="vite logo"
+    />
+  </a>
 </div>
 
 ###
@@ -106,6 +114,14 @@
       src="https://skillicons.dev/icons?i=mysql"
       height="40"
       alt="mysql logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://sequelize.org/">
+    <img
+      src="https://skillicons.dev/icons?i=sequelize"
+      height="40"
+      alt="sequelize logo"
     />
   </a>
 </div>

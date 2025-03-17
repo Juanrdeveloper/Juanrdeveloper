@@ -38,16 +38,16 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a target="_blank" href="https://es.react.dev/">
     <img
-      src="https://skillicons.dev/icons?i=html"
+      src="https://skillicons.dev/icons?i=react"
       height="40"
-      alt="html5 logo"
+      alt="react logo"
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <a target="_blank" href="https://nodejs.org/en">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   </a>
   <img width="12" />
   <a

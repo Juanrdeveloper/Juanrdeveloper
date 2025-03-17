@@ -61,35 +61,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://react.dev/">
+  <a target="_blank" href="https://expressjs.com/">
     <img
-      src="https://skillicons.dev/icons?i=react"
+      src="https://skillicons.dev/icons?i=express"
       height="40"
-      alt="react logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://tailwindcss.com/">
-    <img
-      src="https://skillicons.dev/icons?i=tailwind"
-      height="40"
-      alt="tailwindcss logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://getbootstrap.com/">
-    <img
-      src="https://skillicons.dev/icons?i=bootstrap"
-      height="40"
-      alt="bootstrap logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://sass-lang.com/">
-    <img
-      src="https://skillicons.dev/icons?i=sass"
-      height="40"
-      alt="sass logo"
+      alt="express logo"
     />
   </a>
   <img width="12" />
@@ -98,14 +74,6 @@
       src="https://skillicons.dev/icons?i=astro"
       height="40"
       alt="astro logo"
-    />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://nodejs.org/en">
-    <img
-      src="https://skillicons.dev/icons?i=nodejs"
-      height="40"
-      alt="nodejs logo"
     />
   </a>
 </div>
@@ -123,14 +91,6 @@
   <img width="12" />
   <a target="_blank" href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-  <a target="_blank" href="https://firebase.google.com/?hl=es">
-    <img
-      src="https://skillicons.dev/icons?i=firebase"
-      height="40"
-      alt="firebase logo"
-    />
   </a>
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">

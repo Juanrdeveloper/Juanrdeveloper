@@ -109,11 +109,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://www.lucidchart.com/pages/es">
+  <a target="_blank" href="https://tailwindcss.com/">
     <img
-      src="https://skillicons.dev/icons?i=lucidchart"
+      src="https://skillicons.dev/icons?i=tailwind"
       height="40"
-      alt="lucidchart logo"
+      alt="tailwind logo"
     />
   </a>
  

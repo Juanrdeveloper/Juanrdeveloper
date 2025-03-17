@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Junior JavaScript Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 ###
 
@@ -68,6 +68,14 @@
       alt="express logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.python.org/">
+    <img
+      src="https://skillicons.dev/icons?i=python"
+      height="40"
+      alt="python logo"
+    />
+  </a>
 </div>
 
 ###
@@ -98,6 +106,14 @@
       src="https://skillicons.dev/icons?i=mysql"
       height="40"
       alt="mysql logo"
+    />
+  </a>
+  <img width="12" />
+  <a target="_blank" href="https://www.lucidchart.com/pages/es">
+    <img
+      src="https://skillicons.dev/icons?i=lucidchart"
+      height="40"
+      alt="lucidchart logo"
     />
   </a>
  

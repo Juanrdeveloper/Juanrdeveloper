@@ -98,11 +98,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://astro.build/https://astro.build/">
+  <a target="_blank" href="https://nextjs.org/">
     <img
-      src="https://skillicons.dev/icons?i=astro"
+      src="https://skillicons.dev/icons?i=nextjs"
       height="40"
-      alt="astro logo"
+      alt="nextjs logo"
     />
   </a>
 </div>

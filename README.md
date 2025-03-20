@@ -2,16 +2,17 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer</h3>
+<h3 align="center">⚡Front-end Developer</h3>
 
 ###
 
-<p align="center">Hello! 👋🏽 I'm a software engineering student, passionate about software development with experience in JavaScript, Web Services, MySQL database standardization and design, soft skills and standardization in Excel, and software requirements. </p>
+<p align="center">👨🏽‍🎓 I'm a software engineering student, passionate about software development with experience in JavaScript, Web Services, MySQL database standardization and design, soft skills and standardization in Excel, and software requirements. </p>
 
 ###
 
-- 🌍  I'm based in Pereira, Risaralda, Colombia
-- 🧠  Soft skills: Lucidchart, Notion, Word and Excel
+- 🌍 I'm based in Pereira, Colombia 🇨🇴
+- 📌 English level A2 🇺🇸
+- 🧠 Soft skills: Lucidchart, Notion, Word and Excel
 
 ###
 

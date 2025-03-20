@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 QA Automation</h3>
+<h3 align="center">🚀 Front-end Developer</h3>
 
 ###
 

@@ -153,6 +153,14 @@
       alt="vercel logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https://expressjs.com/">
+    <img
+      src="https://skillicons.dev/icons?i=express"
+      height="40"
+      alt="express logo"
+    />
+  </a>
 </div>
 
 ###

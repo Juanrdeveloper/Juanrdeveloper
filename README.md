@@ -10,6 +10,11 @@
 
 ###
 
+- 🌍  I'm based in Pereira, Risaralda, Colombia
+- 🧠  Soft skills: Lucidchart, Notion, Word and Excel
+
+###
+
   <div align="center">
     <p>🔥 Professional Resume:
    <a href="https://www.linkedin.com/in/juan-david-702a6a306/" target="_blank">Linkedin</a>

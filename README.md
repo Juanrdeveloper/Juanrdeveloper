@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">⚡Front-end Developer</h3>
+<h3 align="center">⚡Web Developer</h3>
 
 ###
 
@@ -147,11 +147,11 @@
     />
   </a>
   <img width="12" />
-  <a target="_blank" href="https://expressjs.com/">
+  <a target="_blank" href="https://firebase.google.com/">
     <img
-      src="https://skillicons.dev/icons?i=express"
+      src="https://skillicons.dev/icons?i=firebase"
       height="40"
-      alt="express logo"
+      alt="firebase logo"
     />
   </a>
 </div>

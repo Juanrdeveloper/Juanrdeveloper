@@ -97,14 +97,6 @@
       alt="sass logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://nextjs.org/">
-    <img
-      src="https://skillicons.dev/icons?i=nextjs"
-      height="40"
-      alt="nextjs logo"
-    />
-  </a>
 </div>
 
 ###

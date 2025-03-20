@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">👨🏽‍🎓 I'm a software engineering student, passionate about software development with experience in JavaScript, Web Services, MySQL database standardization and design, soft skills and standardization in Excel, and software requirements. </p>
+<p align="center">👨🏽‍🎓 I'm a software engineering student, passionate about Front-end development with experience in JavaScript, Web Services, MySQL database standardization and design, soft skills and standardization in Excel, and software requirements. </p>
 
 ###
 

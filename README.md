@@ -148,9 +148,9 @@
   <img width="12" />
   <a target="_blank" href="https://code.visualstudio.com/">
     <img
-      src="https://skillicons.dev/icons?i=visualstudiocode"
+      src="https://skillicons.dev/icons?i=visualstudio"
       height="40"
-      alt="visualstudiocode logo"
+      alt="visualstudio logo"
     />
   </a>
  

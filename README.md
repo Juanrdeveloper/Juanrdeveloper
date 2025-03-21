@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">⚡Web Developer</h3>
+<h3 align="center">⚡Front-end Developer</h3>
 
 ###
 
@@ -96,6 +96,14 @@
       src="https://skillicons.dev/icons?i=sass"
       height="40"
       alt="sass logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://mui.com/">
+    <img
+      src="https://skillicons.dev/icons?i=mui"
+      height="40"
+      alt="mui logo"
     />
   </a>
 </div>

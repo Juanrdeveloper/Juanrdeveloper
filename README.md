@@ -106,6 +106,14 @@
       alt="mui logo"
     />
   </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.python.org/">
+    <img
+      src="https://skillicons.dev/icons?i=python"
+      height="40"
+      alt="python logo"
+    />
+  </a>
 </div>
 
 ###
@@ -128,6 +136,14 @@
       src="https://skillicons.dev/icons?i=mysql"
       height="40"
       alt="mysql logo"
+    />
+  </a>
+   <img width="12" />
+  <a target="_blank" href="https://www.postgresql.org/">
+    <img
+      src="https://skillicons.dev/icons?i=postgresql"
+      height="40"
+      alt="postgresql logo"
     />
   </a>
   <img width="12" />

@@ -10,17 +10,12 @@
 
 ###
 
-- 🌍 I'm based in Pereira, Colombia 🇨🇴
-- 📌 English level A2 🇺🇸
-- 🧠 Soft skills: Lucidchart, Notion, Word and Excel
+- 🌍 I'm based in Pereira, Colombia 
+- 🇺🇸 English level A2 
+- 🧠 Soft skills: Lucidchart and Excel
 
 ###
 
-  <div align="center">
-    <p>🔥 Professional Resume:
-   <a href="https://www.linkedin.com/in/juan-david-702a6a306/" target="_blank">Linkedin</a>
-      </p>
-  </div>
 
 ###
 
@@ -128,15 +123,6 @@
       height="40"
       alt="mysql logo"
     />
-  </a>
-   <img width="12" />
-  <a target="_blank" href="https://www.postgresql.org/">
-    <img
-      src="https://skillicons.dev/icons?i=postgresql"
-      height="40"
-      alt="postgresql logo"
-    />
-  </a>
   <img width="12" />
   <a target="_blank" href="https://www.figma.com/">
     <img
@@ -145,14 +131,7 @@
       alt="figma logo"
     />
   </a>
-  <img width="12" />
-  <a target="_blank" href="https://code.visualstudio.com/">
-    <img
-      src="https://skillicons.dev/icons?i=visualstudio"
-      height="40"
-      alt="visualstudio logo"
-    />
-  </a>
+
  
  
 </div>

@@ -6,11 +6,11 @@
 
 ###
 
-<p align="center">⚡️ I'm a software engineering student, passionate about Front-end development with experience in JavaScript, Web Services, MySQL database standardization and design, soft skills and standardization in Excel, and software requirements. </p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Risaralda 🇨🇴 </p>
 
 ###
 
-- 🌍 I'm based in Pereira, Colombia 
+- 🧑‍🎓 Software engineering student 
 - 🇺🇸 English level A2 
 - 🧠 Soft skills: Lucidchart and Excel
 

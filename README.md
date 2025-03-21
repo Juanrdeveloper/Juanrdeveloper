@@ -145,6 +145,14 @@
       alt="figma logo"
     />
   </a>
+  <img width="12" />
+  <a target="_blank" href="https://code.visualstudio.com/">
+    <img
+      src="https://skillicons.dev/icons?i=visualstudiocode"
+      height="40"
+      alt="visualstudiocode logo"
+    />
+  </a>
  
  
 </div>

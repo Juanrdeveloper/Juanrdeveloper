@@ -16,9 +16,10 @@
 <h3 align="left">Soft skills</h3>
 
 ###
-- 🧠  Excel, lucidchart, word
-- 🚀 Teamwork, responsibility, Problem solving
-- 📚 Software engineering student
+- 📊 Database Design/Normalization: Excel 
+- 📄 Requirements/Documentation: Word, Lucidchart
+- 🧠 Teamwork, Responsibility, Problem solving
+- 🖥️ Software Engineering Student
 
 ###
 

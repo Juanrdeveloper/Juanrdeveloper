@@ -133,7 +133,8 @@
   </a>
    <img width="12" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker," />
+    <img src="https://skillicons.dev/icons?i=docker," 
+      height="40"/>
   </a>
 
  

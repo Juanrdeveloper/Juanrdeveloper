@@ -11,12 +11,15 @@
 ###
 
 <h3 align="left">Soft skills</h3>
+
+###
 - 🧠  Excel, lucidchart, word
 - 🚀 Teamwork, responsibility, Problem solving
 - 📚 Software engineering student
-
+- 💻 Web services, Programming logic, Databases, Engineering principles
 
 ###
+
 
 <h3 align="left">Connect with me!</h3>
 

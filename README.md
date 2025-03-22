@@ -9,17 +9,18 @@
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Risaralda 🇨🇴 </p>
 
 ###
-
+<div align="center">
 - 🧑‍🎓 Software engineering student 
 - 🇺🇸 English level A2 
 - 🧠 Soft skills: Lucidchart and Excel
+</div>
 
 ###
 
 
 ###
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 ###
 

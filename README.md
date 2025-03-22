@@ -39,7 +39,11 @@
 ###
 
 <div align="left">
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mui,sass,tailwind,bootstrap,git,figma,nodejs,mysql,express,python,netlify,vercel"
+      height="40"/>
+  </a>
+</p>
 
  
  

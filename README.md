@@ -23,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https:https://www.linkedin.com/in/juan-david-702a6a306/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="center">Skills</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mui,sass,tailwind,bootstrap,git,figma,nodejs,mysql,netlify,vercel"
       />

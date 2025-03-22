@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=Back-end+Developer;Front-end+Developer;Database+Administrator;" /></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=Front-end+Developer;" /></h3>
 
 ###
 
@@ -20,7 +20,7 @@
 ###
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contact me here</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">Skills</h3>
+<h3 align="left">languages ​​and frameworks</h3>
 
 ###
 

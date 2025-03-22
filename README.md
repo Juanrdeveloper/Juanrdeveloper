@@ -37,8 +37,8 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,"
-      />
+    <img src="https://skillicons.dev/icons?i=html,css,react,mui,tailwind"
+     height="40" />
   </a>
 </p>
 

@@ -16,7 +16,6 @@
 - 🧠  Excel, lucidchart, word
 - 🚀 Teamwork, responsibility, Problem solving
 - 📚 Software engineering student
-- 💻 Web services, Programming logic, Databases, Engineering principles
 
 ###
 

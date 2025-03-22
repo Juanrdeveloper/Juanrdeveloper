@@ -41,7 +41,7 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mui,sass,tailwind,bootstrap,git,figma,nodejs,mysql,express,python,netlify,vercel"
-      height="40"/>
+      />
   </a>
 </p>
 

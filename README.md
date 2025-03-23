@@ -49,7 +49,7 @@
      height="40" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,astro,git,mysql,figma,firebase"
      height="40" />
-     <img src="https://skillicons.dev/icons?i=python,vercel,netlify,webflow"
+     <img src="https://skillicons.dev/icons?i=python,vercel,netlify,webflow,visualstudio"
      height="40" />
   </a>
 </p>

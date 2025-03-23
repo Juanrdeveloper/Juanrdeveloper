@@ -49,6 +49,8 @@
      height="40" />
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,astro,git,mysql,figma,firebase"
      height="40" />
+     <img src="https://skillicons.dev/icons?i=redux,express,typescript,vite,vercel,netlify,ps"
+     height="40" />
   </a>
 </p>
 

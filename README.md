@@ -47,7 +47,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,mui,tailwind,bootstrap,sass"
      height="40" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,astro,git,mysql,figma,vite"
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,angular,git,mysql,figma,php"
      height="40" />
   </a>
 </p>

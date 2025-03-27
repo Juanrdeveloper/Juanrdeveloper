@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Ingeniero+Junior;+Tester+QA;+Database+Administrator;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Ingeniero+Junior;+Database+Administrator;" />
 </div>
 
 
@@ -36,9 +36,7 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,mui,tailwind,bootstrap,sass"
-     height="40" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,angular,git,mysql,figma,php"
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript,php,git,mysql"
      height="40" />
   </a>
 </p>

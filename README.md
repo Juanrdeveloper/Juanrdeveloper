@@ -15,7 +15,7 @@
 
 
 
-<h3 align="left">Socials</h3>
+<h3 align="left">Socials:</h3>
 
 ###
 
@@ -30,18 +30,21 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ###
 
 <div align="left">
   <a href="https://skillicons.dev">
+    <p>Front-end Development</p>
     <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript"
      height="40" />
     <br></br>
+    <p>Back-end Development</p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,git,mysql,github"
      height="40" />
     <br></br>
+     <p>Frameworks</p>
      <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind,sass"
      height="40" />
   </a>

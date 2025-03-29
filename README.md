@@ -39,10 +39,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript"
      height="40" />
     <br></br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,git,mysql"
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,git,mysql,github"
      height="40" />
     <br></br>
-     <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind"
+     <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind,sass"
      height="40" />
   </a>
 </p>

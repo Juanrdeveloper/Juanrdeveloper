@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">⚡️ Hello everyone! I'm Juan, a 22-year-old junior engineer with a passion for programming and software development. I'm currently studying software engineering, where I've learned and improved my skills in this field. Thanks for visiting my GitHub profile! Explore my repositories and projects to learn more about my work and skills. I'm always open to new opportunities and exciting projects, so don't hesitate to contact me if you're interested in collaborating. I'm from Pereira, Risaralda 🇨🇴 </p>
+<p align="center">⚡️ Hello everyone! I'm Juan, a 22-year-old junior engineer with a passion for programming and front-end development. I'm currently studying software engineering, where I've learned and improved my skills in this field. Thanks for visiting my GitHub profile! Explore my repositories and projects to learn more about my work and skills. I'm always open to new opportunities and exciting projects, so don't hesitate to contact me if you're interested in collaborating. </p>
 
 ###
 

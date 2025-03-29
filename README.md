@@ -36,8 +36,12 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript,nestjs,git,mysql"
+    <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript"
      height="40" />
+    <br></br>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,git,mysql"
+     height="40" />
+    <br></br>
      <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind"
      height="40" />
   </a>

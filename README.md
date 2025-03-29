@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Front-end+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Front-end+Developer;Back-end+Developer;Database+Administrator;" />
 </div>
 
 
@@ -39,7 +39,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript"
      height="40" />
     <br></br>
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,git,mysql,github"
+    <img src="https://skillicons.dev/icons?i=nodejs,express,git,mysql,github"
      height="40" />
     <br></br>
      <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind,sass"

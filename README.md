@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Front-end+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Programming+Professional;" />
 </div>
 
 
 ###
 
-<p align="center">⚡️ Hello everyone! I'm Juan, a 22-year-old junior engineer with a passion for programming and front-end development. I'm currently studying software engineering, where I've learned and improved my skills in this field. Thanks for visiting my GitHub profile! Explore my repositories and projects to learn more about my work and skills. I'm always open to new opportunities and exciting projects, so don't hesitate to contact me if you're interested in collaborating. </p>
+<p align="center">Hi! I'm Juan, a 22-year-old software developer passionate about front-end development. I'm currently studying software engineering, where I've learned and improved my skills in this field. Thanks for visiting my GitHub profile! Explore my repositories and projects to learn more about my work and skills. I'm always open to new opportunities and exciting projects, so don't hesitate to contact me if you're interested in collaborating. </p>
 
 ###
 

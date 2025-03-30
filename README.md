@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Programming+Professional;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=EBDEF0&center=true&vCenter=true&width=440&lines=+Software+Developer;" />
 </div>
 
 
@@ -37,19 +37,15 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <p>Front-end Development</p>
-    <img src="https://skillicons.dev/icons?i=html,css,react,angular,javascript"
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular"
      height="40" />
     <br></br>
     <p>Back-end Development</p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,git,mysql,github"
+    <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,mysql"
      height="40" />
     <br></br>
      <p>Frameworks</p>
-     <img src="https://skillicons.dev/icons?i=mui,bootstrap,tailwind,sass"
-     height="40" />
-     <br></br>
-     <p>Diseño UI</p>
-     <img src="https://skillicons.dev/icons?i=figma,ai"
+     <img src="https://skillicons.dev/icons?i=figma,sass,mui,bootstrap,tailwind"
      height="40" />
   </a>
 </p>

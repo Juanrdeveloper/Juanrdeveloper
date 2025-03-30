@@ -45,7 +45,11 @@
      height="40" />
     <br></br>
      <p>Frameworks</p>
-     <img src="https://skillicons.dev/icons?i=figma,mui,bootstrap,tailwind,sass"
+     <img src="https://skillicons.dev/icons?i=mui,bootstrap,tailwind,sass"
+     height="40" />
+     <br></br>
+     <p>Diseño UI</p>
+     <img src="https://skillicons.dev/icons?i=figma,ai"
      height="40" />
   </a>
 </p>

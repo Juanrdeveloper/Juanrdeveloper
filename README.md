@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="center">🚀 Front-end Developer</h3>
+<h3 align="center"> Front-end Developer</h3>
 
 
 ###
 
 
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
+<p align="center">⚡️ Colombia 🇨🇴</p>
 
 ###
 

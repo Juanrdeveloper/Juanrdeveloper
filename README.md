@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,sass,git,github"
      height="40" />
     <br></br>
-     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,figma,ai"
+     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,figma,ps"
      height="40" />
   </a>
 </p>

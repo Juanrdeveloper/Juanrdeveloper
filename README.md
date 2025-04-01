@@ -8,7 +8,7 @@
 ###
 
 
-<p align="center">⚡️ Colombia 🇨🇴</p>
+<p align="center">Colombia 🇨🇴</p>
 
 ###
 

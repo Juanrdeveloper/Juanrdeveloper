@@ -42,13 +42,16 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,"
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs"
      height="40" />
     <br></br>
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,sass,git,"
      height="40" />
     <br></br>
-     <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,figma,notion"
+     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,figma,"
+     height="40" />
+       <br></br>
+     <img src="https://skillicons.dev/icons?i=shadcn"
      height="40" />
   </a>
 </p>

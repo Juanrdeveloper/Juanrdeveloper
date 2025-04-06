@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Juan Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Design+UX+&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Software+Engineering+Student&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">💻I am a programmer and web developer. Programming lover looking for new projects, ideas and knowledge.</h4>
@@ -33,11 +33,7 @@ Now, while I study software engineering at university, I'm looking for all kinds
    &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-20232A.svg?logo=react&logoColor=white"></a> 
    &emsp;
-   <a href="https://es.redux.js.org" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux%20-593D88.svg?logo=redux&logoColor=white"></a> 
-   &emsp;
   <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
-   &emsp;
-   <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
    &emsp;
   <a href="https://tailwindcss.com" target="_blank"> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/></a>
   &emsp;
@@ -50,9 +46,7 @@ Now, while I study software engineering at university, I'm looking for all kinds
   &emsp; 
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
-  <a href="https://nextjs.org" target="_blank"><img alt="Next" src="https://img.shields.io/badge/NextJs%20-20232A.svg?logo=nextdotjs&logoColor=white"></a> 
-   &emsp;
-  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2307405e.svg?logo=php&logoColor=white"></a>  
+  <a href="https://expressjs.com/" target="_blank"><img alt="express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=express&logoColor=white"></a> 
    &emsp;
 </p>
 

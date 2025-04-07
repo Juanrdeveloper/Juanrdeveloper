@@ -24,8 +24,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
    &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
   &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
-  &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-20232A.svg?logo=react&logoColor=white"></a> 
    &emsp;
   <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 

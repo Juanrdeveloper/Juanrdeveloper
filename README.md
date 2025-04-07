@@ -44,7 +44,7 @@ Now, while I study software engineering at university, I'm looking for all kinds
   &emsp;
   <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
   &emsp;
-  <a href="https://www.python.org/"><img alt="python" src="https://img.shields.io/badge/Python%20-%23F05033.svg?logo=python&logoColor=white"></a>
+  <a href="https://expressjs.com/"><img alt="express" src="https://img.shields.io/badge/Express%20-%23F05033.svg?logo=express&logoColor=white"></a>
   &emsp;
  
 </p>

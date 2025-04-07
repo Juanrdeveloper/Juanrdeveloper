@@ -24,6 +24,8 @@ Now, while I study software engineering at university, I'm looking for all kinds
    &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
   &emsp;
+  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
+  &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-20232A.svg?logo=react&logoColor=white"></a> 
    &emsp;
   <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
@@ -34,8 +36,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
   &emsp;
    <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
-  <a href="https://expressjs.com/" target="_blank"><img alt="express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=express&logoColor=white"></a> 
-   &emsp;
    <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
   &emsp;
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/></a> 

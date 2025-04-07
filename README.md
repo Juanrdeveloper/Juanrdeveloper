@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Juan Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Ethical+Hacker;Web+Designer;&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;Back-end+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">💻I am a programmer and frontend developer. Programming lover looking for new projects, ideas and knowledge.</h4>
@@ -43,7 +43,10 @@ Now, while I study software engineering at university, I'm looking for all kinds
    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
   <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
+  &emsp;
+  <a href="https://www.python.org/"><img alt="python" src="https://img.shields.io/badge/Python%20-%23F05033.svg?logo=python&logoColor=white"></a>
+  &emsp;
+ 
 </p>
 
 

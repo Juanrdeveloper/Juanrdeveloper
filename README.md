@@ -24,8 +24,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
    &emsp;
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
   &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
-  &emsp;
   <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-20232A.svg?logo=react&logoColor=white"></a> 
    &emsp;
   <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
@@ -46,10 +44,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
   &emsp;
   <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
- <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%2307405e.svg?logo=php&logoColor=white"></a>  
-   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux%20-20232A.svg?logo=linux&logoColor=white"></a>
-  &emsp;
 </p>
 
 

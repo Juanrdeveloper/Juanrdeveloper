@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Juan Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;UX+Designer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💻I am a programmer and web developer. Programming lover looking for new projects, ideas and knowledge.</h4>
+<h4 align="center">💻I am a programmer and frontend developer. Programming lover looking for new projects, ideas and knowledge.</h4>
 <br>
 After finishing high school, I began my career as a programmer by studying software engineering at CIAF, where I acquired some of the knowledge I currently possess and which continues to be updated daily.
 <br>
@@ -19,8 +19,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
 <p align="left"> 
   &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
-  &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
   &emsp;
 </p>
 
@@ -50,13 +48,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
    &emsp;
 </p>
 
-### Databases 
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
   
 ### Graphic Designing
 <p align="left">

@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💻I am a programmer and web developer. Programming lover looking for new projects, ideas and knowledge.</h4>
+<h4 align="center">💻I am a programmer and frontend developer. Programming lover looking for new projects, ideas and knowledge.</h4>
 <br>
 After finishing high school, I began my career as a programmer by studying software engineering at CIAF, where I acquired some of the knowledge I currently possess and which continues to be updated daily.
 <br>
@@ -42,8 +42,6 @@ Now, while I study software engineering at university, I'm looking for all kinds
   &emsp;
   <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
   &emsp; 
-  <a href="https://www.python.org/" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2307405e.svg?logo=python&logoColor=white"></a>  
-  &emsp;
   <a href="https://expressjs.com/" target="_blank"> <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=express&logoColor=white"></a>  
   &emsp;
    <a href="https://www.mysql.com/" target="_blank"> <img alt="Mysql" src="https://img.shields.io/badge/Mysql%20-%231572B6.svg?logo=mysql&logoColor=white"></a>  

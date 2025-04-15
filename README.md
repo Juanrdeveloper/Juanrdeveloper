@@ -2,7 +2,7 @@
 <p align="center">
  <h3 align="center">🚀 Front-end Developer</h3>
 <hr/>
-<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇦🇷</p>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇨🇴</p>
 
 ###
 

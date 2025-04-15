@@ -1,18 +1,20 @@
-<h1 align="center">Hi , I'm Juan Rengifo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋 , I'm Juan Rengifo!</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">💻I am a programmer and frontend developer. Programming lover looking for new projects, ideas and knowledge.</h4>
-<br>
-After finishing high school, I began my career as a programmer by studying software engineering at CIAF, where I acquired some of the knowledge I currently possess and which continues to be updated daily.
-<br>
-Now, while I study software engineering at university, I'm looking for all kinds of jobs and projects that will continue to train me in what I love.
-<br>
+<p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇦🇷</p>
+
+###
+
+  <div align="center">
+    <p>🔥 Portfolio Website:
+   <a href="https://www.joacomesa.com.ar/" target="_blank">joacomesa.com.ar</a>
+      </p>
+  </div>
 
 
-
-## 🛠️ Skills
+## 🛠️ Skillset
 
 
 ### Programming languages
@@ -50,7 +52,7 @@ Now, while I study software engineering at university, I'm looking for all kinds
 </p>
 
 
-## Contact
+## Connect with me!
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rengifo-702a6a306/)

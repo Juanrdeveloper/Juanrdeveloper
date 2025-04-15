@@ -18,38 +18,14 @@
 
 
 ### Programming languages
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
-   &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=gray"></a>
-  &emsp;
-  <a href="https://es.react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/React%20-%231572B6.svg?logo=react&logoColor=white"></a> 
-   &emsp;
-  <a href="https://astro.build" target="_blank"><img alt="Astro" src="https://img.shields.io/badge/Astro%20-BC52EE.svg?logo=astro&logoColor=white"></a> 
-   &emsp;
-  <a href="https://tailwindcss.com" target="_blank"> <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss%20-%231572B6.svg?logo=tailwindcss&logoColor=white"/></a>
-  &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
-  &emsp;
-   <a href="https://www.figma.com" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma%20-BC52EE.svg?style=flat&logo=figma&logoColor=white"/></a>
-  &emsp;
-   <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.typescriptlang.org" target="_blank"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript%20-20232A.svg?logo=typescript"></a>
-  &emsp;
-  <a href="https://nodejs.org/en" target="_blank"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%D90AC5.svg?logo=node.js&logoColor=white"></a>   
-  &emsp; 
-  <a href="https://expressjs.com/" target="_blank"> <img alt="Express" src="https://img.shields.io/badge/Express%20-20232A.svg?logo=express&logoColor=white"></a>  
-  &emsp;
-   <a href="https://www.mysql.com/" target="_blank"> <img alt="Mysql" src="https://img.shields.io/badge/Mysql%20-%231572B6.svg?logo=mysql&logoColor=white"></a>  
-  &emsp;
- 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nextjs,github,git,figma,nodejs,express" />
+  </a>
 </p>
+  
+ 
 
 
 ## Connect with me!

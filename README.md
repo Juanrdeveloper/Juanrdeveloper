@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Juan Rengifo!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front-end+Developer;&color=BC52EE&center=true&width=500&height=50"></a>
-</p>
+ <h3 align="center">🚀 Front-end Developer</h3>
 <hr/>
 <p align="center">⚡️ I'm 22 years old and I'm from Pereira, Colombia 🇦🇷</p>
 
@@ -14,14 +13,19 @@
   </div>
 
 
-## 🛠️ Skillset
+## Skillset
 
 
 ### Programming languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,nextjs,github,git,figma,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,github,git,figma,nodejs,express,mysql" />
   </a>
 </p>
   
